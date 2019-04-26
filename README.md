@@ -9,3 +9,6 @@ Please access our website https://www.evervpn.info to down VPN for iPhone,Mac,Wi
 
 Android版本下载： https://github.com/gordonmah73/evervpn/blob/master/evervpn_v1.0.2.apk
 
+windows版本下载： https://github.com/gordonmah73/evervpn/blob/master/evervpn_v1.0.2.exe
+
+Mac 版本下载：https://github.com/gordonmah73/evervpn/blob/master/evervpn_1.0.11.dmg
