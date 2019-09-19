@@ -11,7 +11,7 @@ Android版本下载： https://github.com/gordonmah73/evervpn/blob/master/evervp
 
 windows版本下载： https://github.com/gordonmah73/evervpn/blob/master/evervpn_v1.0.2.exe
 
-Mac 版本下载：https://github.com/gordonmah73/evervpn/blob/master/EverVPN_V1.0.11.dmg
+Mac 版本下载：https://github.com/gordonmah73/evervpn/blob/master/EverVPN_V2.0.1.dmg
 
 iPhone版本请在iPhone的safari浏览器下下载：https://github.com/gordonmah73/evervpn/blob/master/evervpn_1.0.12.plist
 
